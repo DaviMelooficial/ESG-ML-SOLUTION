@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# AI tooling state
+.omc/
+.claude/
+
+# Context, planning & AI-generated docs (root level)
+solucao.md
+identidade_visual.md
+apresentacao.html
+dados.csv
+image.png
+*.pdf
